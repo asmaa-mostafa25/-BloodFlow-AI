@@ -1,0 +1,9 @@
+type,stock,threshold,days_of_supply,pred_cons_14d,shortage_day,worst_case_day,deficit,alert
+O+,1936,217,26.8,1020,,,0,GREEN
+O-,55,7,37.5,19,,,0,GREEN
+A+,926,115,24.2,573,,,0,GREEN
+A-,51,6,40.3,21,,,0,GREEN
+B+,256,65,11.8,302,,,0,GREEN
+B-,12,5,12.0,12,,6.0,0,YELLOW
+AB+,114,19,17.7,79,,,0,GREEN
+AB-,15,4,18.0,8,,,0,GREEN

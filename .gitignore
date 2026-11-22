@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Saved model cache (rebuilt automatically)
+forecast_cache.pkl
+
+# Data the API received at runtime
+live_data/
+
+# Secrets
+.env
